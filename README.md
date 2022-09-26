@@ -1,4 +1,6 @@
-### Hi there 👋
+### Brock Brumley
+
+# Software Engineer at Corrections Software Solutions
 
 - 🌱 I’m currently learning kubernetes
 - 📫 How to reach me: 
